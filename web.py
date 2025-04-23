@@ -1,5 +1,6 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler 
-content="""
+content=
+"""
 <html>
     <head>
         <TITLE> WEB APPLICATION </TITLE>
@@ -37,3 +38,4 @@ server_address = ('', 8000)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
+
