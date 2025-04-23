@@ -84,4 +84,4 @@ httpd.serve_forever()
 ![alt text](<Screenshot 2025-04-09 110731.png>)
 
 ## RESULT:
-The program for implementing simple webserver is executed successfully.
+The program for implementing simple webserver is executed Successfully.
